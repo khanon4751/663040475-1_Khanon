@@ -1,0 +1,6 @@
+— SabadTenZ —
+Orc • Ranger
+STR: 20
+DEX: 12
+INT: 17
+VIT: 11

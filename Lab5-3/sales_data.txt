@@ -1,0 +1,4 @@
+Jan,Electronics,1200.50
+Jan,Clothing,450.00
+Feb,Electronics,800.00
+Mar,Food,300.25
